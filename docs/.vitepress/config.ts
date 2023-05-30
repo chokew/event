@@ -7,16 +7,25 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      // { text: 'Home', link: '/' },
+      // { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Examples', link: '/Document/2023/May/2023-May-docs.md' }
     ],
 
+    // sidebar: [
+    //   {
+    //     text: 'Examples',
+    //     items: [
+    //       { text: 'Markdown Examples', link: '/markdown-examples' },
+    //       { text: 'Runtime API Examples', link: '/api-examples' }
+    //     ]
+    //   }
+    // ],
     sidebar: [
       {
-        text: 'Examples',
+        text: '2023',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '5月', link: '/Document/2023/May/2023-May-docs.md' }
         ]
       }
     ],
