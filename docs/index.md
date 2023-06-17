@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "some event"
+  name: "event"
   text: "nothing"
   tagline: My great project tagline
   actions:

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "some event",
+  title: "event",
   description: "nothing",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
