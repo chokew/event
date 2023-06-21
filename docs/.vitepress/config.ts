@@ -9,7 +9,14 @@ export default defineConfig({
     nav: [
       // { text: 'Home', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
-      { text: 'Examples', link: '/Document/2023/May/2023-May-docs.md' }
+      // { text: 'May', link: '/Document/2023/May/2023-May-docs.md' }
+      {
+        text: '2023',
+        items: [
+          { text: '5月', link: '/Document/2023/May/2023-May-docs.md' },
+          { text: '6月', link: '/Document/2023/June/2023-June-docs.md' }
+        ]
+      }
     ],
 
     // sidebar: [
