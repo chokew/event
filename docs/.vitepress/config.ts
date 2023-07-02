@@ -15,7 +15,8 @@ export default defineConfig({
         text: '2023',
         items: [
           { text: '5月', link: '/Document/2023/May/2023-May-docs.md' },
-          { text: '6月', link: '/Document/2023/June/2023-June-docs.md' }
+          { text: '6月', link: '/Document/2023/June/2023-June-docs.md' },
+          { text: '7月', link: '/Document/2023/July/2023-July-docs.md' }
         ]
       }
     ],
@@ -40,6 +41,12 @@ export default defineConfig({
         text: '2023',
         items: [
           { text: '6月', link: '/Document/2023/June/2023-June-docs.md' }
+        ]
+      },
+      {
+        text: '2023',
+        items: [
+          { text: '7月', link: '/Document/2023/July/2023-July-docs.md' }
         ]
       }
     ],
