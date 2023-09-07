@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /Document/2023/August/2023-August-docs.md
+      link: /Document/2023/September/2023-September-docs.md
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
